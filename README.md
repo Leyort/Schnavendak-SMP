@@ -1,7 +1,7 @@
 
 # Schnavendak SMP
 
-Voici l'endroit où vous pourrez télécharger le monde du serveur
+Voici l'endroit où vous pourrez télécharger le monde du [serveur](minecraft://?addExternalServer=Schnavendak%20SMP|91.175.216.166:7777)
 
 
 

@@ -27,7 +27,7 @@ il vous suffit de suivre ce tuto :
 *Double Clique*
 
 
-## Comment faire ? (mobile)
+## Comment faire ? (mobile : android)
 
 télécharger le fichier : [lien](https://github.com/Leyort/Schnavendak-SMP/archive/refs/heads/main.zip)
 

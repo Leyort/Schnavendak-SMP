@@ -1,1 +1,0 @@
-# Schnavendak-SMP

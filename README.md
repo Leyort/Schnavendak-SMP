@@ -21,3 +21,9 @@ il vous suffit de suivre ce tuto :
 Étape 3 :
 
 ![Tuto parite 3](https://github.com/Leyort/Schnavendak-SMP/assets/106246649/2775e6a8-14da-4164-8b85-d5830f02702a)
+
+Étape 4 :
+
+*Double Clique*
+
+### Vous avez maintenant accès au monde du serveur !

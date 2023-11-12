@@ -29,6 +29,8 @@ il vous suffit de suivre ce tuto :
 
 ## Comment faire ? (mobile)
 
+télécharger le fichier : [lien](https://github.com/Leyort/Schnavendak-SMP/archive/refs/heads/main.zip)
+
 J'ai utilisé Solid Explorer : https://play.google.com/store/apps/details?id=pl.solidexplorer2&hl=fr&gl=US
 
 ![Tuto Mobile](https://github.com/Leyort/Schnavendak-SMP/assets/106246649/18b7f61b-a092-4358-acf9-504a072c8d88)
